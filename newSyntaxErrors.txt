@@ -1,4 +1,4 @@
-# Import necessary libraries
+# Import necessary libraries#
 import pandas as pd
 import yfinance as yf
 from datetime import datetime, timedelta
@@ -618,3 +618,4 @@ import plotly.io as pio
 pio.renderers.default = 'browser'  # oder 'browser'
 if __name__ == "__main__":
     main()		
+
